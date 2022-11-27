@@ -1,3 +1,7 @@
+aws:
+  name: aws
+  description: A series of posts related to my experiences with Amazon Web Services.
+  cover: assets/images/fables.jpg
 azure-percept:
   name: azure-percept
   description: A series of posts sharing my thoughts and learnings around Azure Percept Studio and the Azure Percept Device Kit.
