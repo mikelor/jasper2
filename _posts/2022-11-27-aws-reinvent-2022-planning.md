@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/aws/amazonreinventdali.png
+cover: assets/images/aws/amazonreinventdali.png
 navigation: True
 title: Hello AWS re:Invent 2022
 date: 2022-11-27 12:00:00
@@ -26,7 +26,15 @@ I've grouped them in three major areas
   1. Software Applications and Industry Solutions
   1. Management, Delivery, and Best Practices
 
-My main focus would be on the next level of cloud architecture, staying away from the core Infrastructure pieces but instead prioritize serverless, platform, and analytics services.
+My main focus would be on the next level of cloud architecture, staying away from the core Infrastructure pieces but instead prioritize serverless, platform, and analytics services. A recent article [Ahead of re:Invent, Adam Selipsky hints at the AWS next-gen cloud](https://siliconangle.com/2022/11/25/ahead-reinvent-adam-selipsky-hints-aws-next-gen-cloud/) hints at this trend, referring to it as the move from Classic to Next-Gen cloud. It also makes a go at leveraging AWS for another buzzword "Business Transformation". The cloud's move beyond infrastructure, requires a new method, where more focus is put on business change and "code" and less on the infrastructure it runs on. For those that know me, this is something I strongly believe in.
+
+I built the graphic above so that each Hex is colored according to priority
+  1. **Teal (Top Priority)** - Core Building Blocks of Modern Applications, Analytics, and Applied AI
+  1. **Green (Secondary Focus)** - Enterprise Concerns and Key Case Studies for Various Industries
+  1. **Grey (Zero to no focus)** - Unless there are major announcements during a keynote.
+
+## Prioritize Sessions
+Now 
 
 
 
