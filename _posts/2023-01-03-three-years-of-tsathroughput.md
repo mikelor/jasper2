@@ -39,7 +39,7 @@ Being in the airline industry (and any service oriented industry) in 2020 was no
 As I mentioned, the TSA publishes these numbers in PDF format, so in order to make the data more useful (and learn a few new skills) I created the [TSA Throughput Project on Github](https://github.com/mikelor/tsathroughput). In future posts, I'll talk about the architecture, individual airport trends, and how others are using the data.
 
 ## Let's Connect
-If you are attending AWS re:Invent or noticed a session that I might have missed, you can reach out to me on:
+You can reach out to me on:
   1. Mastodon - [@mikelor@awscommunity.social](https://awscommunity.social/@mikelor)
   1. GitHub - [@mikelor](https://github.com/mikelor)
   1. LinkedIn - [mlorengo](https://www.linkedin.com/in/mlorengo/)
