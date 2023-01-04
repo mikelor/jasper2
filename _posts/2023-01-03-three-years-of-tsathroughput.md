@@ -11,11 +11,11 @@ subclass: 'post'
 logo: assets/images/ghost.png
 author: mikelor
 ---
+These photos taken almost 2 years apart illustrate the drastic dropoff and dramatic comeback in air travel passenger volume. Yet even these pictures have difficulty in conveying just how fast and far those volumes dropped.
 
-The photos above were taken almost three years apart. Both are of the Alaska Airlines lobby in SEA. The left one is from my March 22, 2020 flight to LAS, I was just one of the 7,642 passengers to be screened by TSA in SEA that day, a far cry from the 55,933 passengers screened on the same day one year prior. The one on the right is from my most recent trip through SEA on Christmas Day 2022 when 44,527 passengers were screened by TSA. 
+How do I know this? Well, it turns out that the TSA publishes the number of passengers screened at all domestic airports on a regular basis. They make information available on their [Freedom of Information Act (FOIA) Reading Room website](https://www.tsa.gov/foia/readingroom). During the pandemic, as a sort of deranged therapy, I started tracking the TSA Throughput on a regular basis. This took a bit of work however, as the TSA only publishes their data in PDF format (more on this later).
 
-
-How do I know this? Well, it turns out that the TSA publishes the number of passengers screened at all domestic airports on a regular basis. They make information available on their [Freedom of Information Act (FOIA) Reading Room website](https://www.tsa.gov/foia/readingroom). During the pandemic, as a sort of deranged therapy, I started tracking the TSA Throughput on a regular basis. This took a bit of work however, as the TSA only publishes their data in PDF format which makes it difficult to do any form of statistical analyis (more on this later).
+Both are of the Alaska Airlines lobby in SEA. The left one is from my March 22, 2020 flight to LAS, I was just one of the 7,642 passengers to be screened by TSA in SEA that day, a far cry from the 55,933 passengers screened on the same day one year prior. The one on the right is from my most recent trip through SEA on Christmas Day 2022 when 44,527 passengers were screened by TSA. 
 
 Let's take a look at small animation of TSA Throughput for the entire country during the height of the pandemic (it's pretty depressing).
 
