@@ -12,7 +12,22 @@ logo: assets/images/ghost.png
 author: mikelor
 ---
 
-From Adam's keynote, we learned that over 50K Customers and Partners are attending re:Invent this year, and boy does it feel like it. Even though I'm spending most of my time at the Wynn, I occasionally have to make a trek over to the Venetian for a keynote, or session. That's when the crush hits me, all of us crammed into corridors seemingly going every direction possible, except where I am going.
+The photos above were taken almost three years apart. Both are of the Alaska Airlines lobby in SEA. The left one is from my March 22, 2020 flight to LAS, I was just one of the 7,642 passengers to be screened by TSA in SEA that day, a far cry from the 55,933 passengers screened on the same day one year prior. The one on the right is from my most recent trip through SEA on Christmas Day 2022 when 44,527 passengers were screened by TSA. 
+
+
+How do I know this? Well, it turns out that the TSA publishes the number of passengers screened at all domestic airports on a regular basis. They make information available on their [Freedom of Information Act (FOIA) Reading Room website](https://www.tsa.gov/foia/readingroom). During the pandemic, as a sort of deranged therapy, I started tracking the TSA Throughput on a regular basis. This took a bit of work however, as the TSA only publishes their data in PDF format which makes it difficult to do any form of statistical analyis (more on this later).
+
+Let's take a look at small animation of TSA Throughput for the entire country during the height of the pandemic (it's pretty depressing).
+
+![TSA Throughput - All Airports](assets/images/travel/TsaThroughputAnimated.gif)
+
+It's not hard to figure out when COVID came in full force. We went from roughly 2M passengers being screened on a daily basis to less than 100K on April 8th, 2020.
+SEA would finally bottom out on April 8th, 2020 with just 2,564 passengers screened at all TSA checkpoints. Please note that this total does not include passengers who may be connecting in SEA as they usually do not need to go through TSA.
+
+
+12/23 - 27,245
+
+The graph below shows the number of passenger screened by TSA at SEA on a daily basis since January 1st, 2019. It shouldn't be hard to spot
 
 I wanted to capture all the big announcements from this keynote in one spot, plus add a little commentary and takeaways. In another post I'm cataloging all of the announcements by Area and Product. You can checkout what this looks like at the end of the post. 
 
