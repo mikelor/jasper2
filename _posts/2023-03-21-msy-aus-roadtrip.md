@@ -44,12 +44,16 @@ It turns out I got a couple of bonus shots from this stop. The first is of a mos
 
 ![Shell Mound Road Tree.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundTree.png)
 
+Across the street from the cemetary, google maps highlights the "Photo Tree Des Allemands". While it's an interesting tree, I found the one above more photogenic.
+
 The second shot was of a broken cross grave marker in Shell Mound Cemetary. 
 
 ![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundCross.png)
 
 With my playlist rollin' and the scenery I was catchin' I was soon in the Bayou Mood, so I wrote this...
 <pre>
+Bayou Mood
+
 Headin' down the Delta
 Gonna see what I can find,
 Headin' down the Delta
@@ -58,6 +62,35 @@ Broken cross at the crossroads
 Don't do much to ease my mind.
 </pre>
 
+### Stop 2 - Bayou LaFourche
+It was back on the highway towards Raceland, but instead of continuing East, I turned down LA1 which follows Bayou LaFourche. Before the highway, the river was the main thoroughfare through this area. Louisia Dread has a great [series of YouTube videos](https://www.youtube.com/playlist?list=PL6nksKjbNXH0ZFsZjeHebbSUH_LTyNC3h) about all of the communities lining it's path.
+
+For my trip through Louisiana, I reached out to the [r/Louisiana](https://www.reddit.com/r/Louisiana/comments/10vrg12/roadtrip_from_new_orleans_to_austin_along_the/) Reddit group for places to see. Two places along this route were suggested (see map at the beginning of this post for more detail.)
+
+Unfortunately both places were not open the hours I drove by, so instead I decided to stop along the side of the Bayou to grab a couple of shots. Listening to the playlist, and driving through the small communities put my mind in a very laid back mood.
+
+![Boat along the shore of Bayou LaFourche](/assets/images/travelogue/2023.03.MSYAUS/BayouLaFourcheBoat.png)
+![Bridge over Bayou LaFourche](/assets/images/travelogue/2023.03.MSYAUS/BayouLaFourcheBridge.jpg)
+
+It was getting to be late morning, and I still needed to make Morgan City in time for dinner, so I turned back North.
+
+### Stop 3 - Quick Bite in Houma
+I drove through Houma, with a quick stop a the Fiery Crab Seafood Restaurant and Bar. The goal was to stop in for a quick bite and a cold beer. Little did I know that this type of restaurant specializes in Seafood Boils. I wasn't **that** hungry, so I had some fried oysters and a Bud Light.
+
+### Stop 4 - E.D. White Historic Site
+I continued my scenic drive along Bayou LaFourche. The drive being quite mellow and scenic, I arrived a bit late to this stop. [The historic site](https://www.lacajunbayou.com/things-to-see-and-do/tours-and-attractions/ed-white-historic-site) is the residence of two of Louisiana’s foremost political figures: Edward Douglas White, who was governor from 1835 to 1839, and his son, Edward Douglass White, who was appointed to the United States Supreme Court in 1894 and served as chief justice from 1910 to 1921. 
+
+![E.D. White Historic Site](/assets/images/travelogue/2023.03.MSYAUS/EDWhiteHistoricSIte.png)
+![E.D. White Historic Site](/assets/images/travelogue/2023.03.MSYAUS/WhitePineRoad.png)
+
+It was a good learning opportunity for me. I'm testing out my Roadtrip App on my drives, and one thing I need to pull into list is hours of operation, much like google maps does. Right now, the App will present you with a list of nearby historical markers and give you some information about them (more on this in a future post.)
+
+![App Screen Shot](/assets/images/travelogue/2023.03.MSYAUS/AppScreenShot.png)
+
+## Stop 5 - Morgan City
+After a long day of driving, I was ready ready to check-in to my hotel for the night. When I landed at MSY, I booked my room at the [Morgan City Best Western](https://www.bestwestern.com/en_US/book/hotels-in-morgan-city/best-western-morgan-city-inn/propertyCode.19135.html). Super nice people, with clean comfortable rooms. I'd stay here again.
+
+Okay, that's Day 1. I guess I'll make each Day their own post.
 
 ## Let's Connect
 You can reach out to me on:
