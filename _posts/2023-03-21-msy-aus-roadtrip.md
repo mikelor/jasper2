@@ -28,24 +28,35 @@ Hopped an American Airlines flight from Las Vegas to New Orleans via Dallas-Fort
 
 ![My rental car with 29,058 starting mileage](assets/images/travelogue/2023.03.MSYAUS/CarRental.png)
 
-
 ## From MSY to Morgan City
 I headed straight out of New Orleans via I-310 South, crossing the Mississippi and on to State Route 90. I try to avoid Interstates and main routes if I can help it, so when I got a chance to take the "Old Spanish Trail" near Paradis, I took it.
 
+![Day 1 Drive](/assets/images/travelogue/2023.03.MSYAUS/Day1Drive.png)
+
+### Stop 1 - Des Allemands / Shell Mound Cemetary
 During my pre-roadtrip planning, I scouted a stop near Des Allemands, called Shell Mound Cemetary. “Des Allemandes” translates in French to mean “the Germans”, it was one of the original German settlements established in 1721. It turns out this area has a much richer history, being part of the ["Sims Site"](https://en.wikipedia.org/wiki/Sims_site) archaelogical site. In a [report from Rob Mann](https://web.archive.org/web/20151023120545/http://www.laarchaeology.org/newsletters/2006%20No.%201.pdf) we learn the site originally consisted of at least five earthen mounds, only two mounds and possibly the remnants of a third mound are extant today. 
 
 I never really located one of the mounds, but looking back at my pictures, there may be one in the back of the first photo below. 🤪
 
-![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](assets/images/travelogue/2023.03.MSYAUS/ShellMoundWide.png)
+![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundWide.png)
 
 It turns out I got a couple of bonus shots from this stop. The first is of a moss encrusted tree overlooking a green pond. To get this shot, I crossed the railroad tracks and drove a short way down Shell Mound Road.
 
-![Shell Mound Road Tree.](assets/images/travelogue/2023.03.MSYAUS/ShellMoundTree.png)
+![Shell Mound Road Tree.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundTree.png)
 
 The second shot was of a broken cross grave marker in Shell Mound Cemetary. 
 
-![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](assets/images/travelogue/2023.03.MSYAUS/ShellMoundCross.png)
+![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundCross.png)
 
+With my playlist rollin' and the scenery I was catchin' I was soon in the Bayou Mood, so I wrote this...
+<pre>
+Headin' down the Delta
+Gonna see what I can find,
+Headin' down the Delta
+Gonna see what I can find,
+Broken cross at the crossroads
+Don't do much to ease my mind.
+</pre>
 
 
 ## Let's Connect
