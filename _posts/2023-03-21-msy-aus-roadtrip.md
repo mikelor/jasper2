@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/travelogue/2023.03.MSYAUS/MSYAUSCover.png
 navigation: True
-title: Spring Roadtrip from MSY to AUS
+title: Day 1 - Spring Roadtrip from MSY to AUS
 date: 2023-03-21 12:00:00
 tags: travelogue
 class: post-template
