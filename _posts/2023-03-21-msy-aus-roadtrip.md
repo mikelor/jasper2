@@ -24,9 +24,10 @@ I created a [Spotify Playlist](https://open.spotify.com/playlist/0VFFfKQn9SoJ6cy
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0VFFfKQn9SoJ6cykn9r27T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Day 1 - Getting Started
-Hopped an American Airlines flights\ from Las Vegas to New Orleans via Dallas-Fort Worth. I pickup my one-way rental at Avis, where they searched for the highest mileage car they had. This means I would be driving a nice Ford Explorer Limited with 29K miles instead of the mid-size car I reserved. I consider this an upgrade. 😄
+Hopped an American Airlines flight from Las Vegas to New Orleans via Dallas-Fort Worth. I pickup my one-way rental at Avis, where they searched for the highest mileage car they had. This means I would be driving a nice Ford Explorer Limited with 29K miles instead of the mid-size car I reserved. I consider this an upgrade. 😄
 
-<img src="assets/images/travelogue/2023.03.MSYAUS/CarRental.png" width="320" height="200" title="Rental Car" />
+![My rental car with 29,058 starting mileage](assets/images/travelogue/2023.03.MSYAUS/CarRental.png)
+
 
 ## From MSY to Morgan City
 I headed straight out of New Orleans via I-310 South, crossing the Mississippi and on to State Route 90. I try to avoid Interstates and main routes if I can help it, so when I got a chance to take the "Old Spanish Trail" near Paradis, I took it.
