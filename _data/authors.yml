@@ -10,10 +10,10 @@ ghost:
   cover: False
 mikelor:
   username: mikelor
-  name: Mike Lorengo
+  name: mikelor
   location: Traveler
-  url_full: http://www.mikelorengo.com/
-  url: www.mikelorengo.com
+  url_full: http:// mikelor.github.io/
+  url: mikelor.github.io
   bio: A traveler of both time and space, with a passion for technology and solving business challenges.
   picture: assets/images/personal/MikelorProfileHackathon.png
   facebook: False
