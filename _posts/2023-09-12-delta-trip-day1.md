@@ -4,7 +4,7 @@ current: post
 cover: assets/images/travelogue/2023.09.BNABlues/NashvilleToShiloh.png
 navigation: True
 title: Day 1 - Fall Roadtrip - Nashville to Shiloh
-date: 2023-09-13 12:00:00
+date: 2023-09-12 12:00:00
 tags: travelogue
 class: post-template
 subclass: 'post'
