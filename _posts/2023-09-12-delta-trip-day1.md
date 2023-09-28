@@ -20,11 +20,11 @@ This roadtrip evolved a lot from when I first booked it back in April. My origin
 
 I had to rethink that plan once I realized the rental car company was going to charge me 30 cents a mile. I'm assuming this is because it was a one-way rental. 
 
-Fortunately for me, I reached out to a few [Reddit](https://reddit.com) groups whose members made a compelling reason to take a trip through blues history in the Mississippi Delta. Maybe we will find some live music along the way too.
+Fortunately for me, I reached out to a few [Reddit](https://reddit.com) groups whose members, especially [r/mississippi](https://www.reddit.com/r/mississippi/comments/169auyj/nashville_mississippi_delta_natchez_trace/) made a compelling reason to take a trip through blues history in the Mississippi Delta. Maybe we will find some live music along the way too.
 
 # The Map
-Every roadtrip has a [map](https://www.google.com/maps/d/u/3/edit?mid=1wFiIwzcc-qgD3YDYl-Zvvkd5jUpnXbk&usp=sharing). Follow along as we explore the roots of the Delta Blues.
-<iframe src="https://www.google.com/maps/d/u/3/edit?mid=1wFiIwzcc-qgD3YDYl-Zvvkd5jUpnXbk&usp=sharing" width="100%" height="480"></iframe>
+Every roadtrip has a [map](https://www.google.com/maps/d/u/3/edit?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&usp=sharing). Follow along as we explore the roots of the Delta Blues.
+<iframe src="https://www.google.com/maps/d/u/3/edit?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&usp=sharing" width="100%" height="480"></iframe>
 
 # The Playlist
 I created a [Spotify Playlist](https://open.spotify.com/playlist/0VFFfKQn9SoJ6cykn9r27T?si=528f8dadf5824a5d) for this roadtrip. It's heavily focused on the early Delta Blues. Why not listen along as you read my trip report. 
@@ -32,15 +32,15 @@ I created a [Spotify Playlist](https://open.spotify.com/playlist/0VFFfKQn9SoJ6cy
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3p06d3gSQFDOyw4sLCCVdx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Day 1 - Getting Started
-I left Las Vegas late afternoon on [@alaskaair](https://twitter.com/alaskaair), and like most Alaska Airlines flight made a connection to Nashville on a Redeye.
+I left Las Vegas late afternoon on [@alaskaair](https://twitter.com/alaskaair), and like most Alaska Airlines flights, I needed to get to Seattle before making a flight to Nashville on a Redeye.
 
-My flight landed in Nashville around 5:30am and I headed to pickup the rental car. The App announced that I had received a Complimentary Upgrade...to a MiniVan.Rather than accept that, I headed to the space number to check it out. Umm, this would be a Hard No. The Preferred Window wasn't due to open for another 15 minutes, but I headed over anyway. It turns out someone was there early, and they were able to send me on my way in a Chrysler 300! Thanks Avis.
+My flight landed in Nashville around 5:30am and I headed to pickup the rental car. The App announced that I had received a Complimentary Upgrade...to a MiniVan. Rather than accept that, I headed to the space number to check it out. Umm, this would be a Hard No. The Preferred Window wasn't due to open for another 15 minutes, but I headed over anyway. It turns out someone was there early, and they were able to send me on my way in a Chrysler 300! Thanks Avis.
 
 # Morning Stops
 Tripperist App in hand, it was time to hit my first of three stops.
 
 ## The Tomb of President James Polk
-The 11th President of the United States (1845-1849) Polk took up the cause of US Expansion in the 19th Century. President during the acquisition of the Oregon territory in 1846 and the Mexican-American War from 1846 to 1848, under the guise of "Manifest Destiny"
+The 11th President of the United States (1845-1849) Polk took up the cause of US Expansion in the 19th Century. President during the acquisition of the Oregon territory in 1846 and the Mexican-American War from 1846 to 1848, under the guise of "Manifest Destiny". I'll talk more about Polk when I visit his home on the return portion of my trip.
 
 # TO BE DONE....
 Hopped an American Airlines flight from Las Vegas to New Orleans via Dallas-Fort Worth. I pickup my one-way rental at Avis, where they searched for the highest mileage car they had. This means I would be driving a nice Ford Explorer Limited with 29K miles instead of the mid-size car I reserved. I consider this an upgrade. 😄
