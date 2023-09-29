@@ -46,12 +46,10 @@ The Parthenon in Centennial Park, Nashville, Tennessee, is a full-scale replica 
 
 ## The Tomb of President James Polk
 The 11th President of the United States (1845-1849) Polk took up the cause of US Expansion in the 19th Century. President during the acquisition of the Oregon territory in 1846 and the Mexican-American War from 1846 to 1848, under the guise of "Manifest Destiny". I'll talk more about Polk when I visit his home on the return portion of my trip.
-![President Polk's Tombe](/assets/images/travelogue/2023.09.BNABlues/PolksTomb.jpg)
 <img src="/assets/images/travelogue/2023.09.BNABlues/PolksTomb.jpg" alt="President Polk's Tomb" width="640"/>
 
 ## The Loveless Cafe
 Scratch Southern Meals include Homeade Hot Biscuits. So many people come to taste the biscuits that put us on the map that they’re now making up to 10,000 every day. I stopped in for an amazing breakfast, and of course Biscuits and Preserves. This is definitely one stop you need to make if you are passing by.
-![President Polk's Tombe](/assets/images/travelogue/2023.09.BNABlues/PolksTomb.jpg)
 <img src="/assets/images/travelogue/2023.09.BNABlues/TheLovelessCafe.jpg" alt="The Loveless Cafe" width="640"/>
 ## Let's Connect
 You can reach out to me on:
