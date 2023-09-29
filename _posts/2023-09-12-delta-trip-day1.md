@@ -24,7 +24,7 @@ Fortunately for me, I reached out to a few [Reddit](https://reddit.com) groups w
 
 # The Map
 Every roadtrip has a [map](https://www.google.com/maps/d/u/3/edit?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&usp=sharing). Follow along as we explore the roots of the Delta Blues.
-<iframe src="https://www.google.com/maps/d/embed?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&hl=en&ehbc=2E312F" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&hl=en&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # The Playlist
 I created a [Spotify Playlist](https://open.spotify.com/playlist/0VFFfKQn9SoJ6cykn9r27T?si=528f8dadf5824a5d) for this roadtrip. It's heavily focused on the early Delta Blues. Why not listen along as you read my trip report. 
@@ -34,8 +34,8 @@ I created a [Spotify Playlist](https://open.spotify.com/playlist/0VFFfKQn9SoJ6cy
 # Day 1 - Getting Started
 I left Las Vegas late afternoon on [@alaskaair](https://twitter.com/alaskaair), and like most Alaska Airlines flights, I needed to get to Seattle before making a flight to Nashville on a Redeye.
 
-My flight landed in Nashville around 5:30am and I headed to pickup the rental car. The App announced that I had received a Complimentary Upgrade...to a MiniVan. Rather than accept that, I headed to the space number to check it out. Umm, this would be a Hard No. The Preferred Window wasn't due to open for another 15 minutes, but I headed over anyway. It turns out someone was there early, and they were able to send me on my way in a Chrysler 300! Thanks Avis.
-![Chrysler 300](/assets/images/travelogue/2023.09.BNABlues/Chrysler300.jpg)
+My flight landed in Nashville around 5:30am and I headed to pickup the rental car. The App announced that I had received a Complimentary Upgrade...to a MiniVan. Rather than accept that, I headed to the space number to check it out. Umm, this would be a Hard No. The Preferred Window wasn't due to open for 
+<img src="/assets/images/travelogue/2023.09.BNABlues/Chrysler300.jpg" alt="Chrysler 300" width="640"/>
 
 # Morning Stops
 Tripperist App in hand, it was time to hit my first of three stops.
