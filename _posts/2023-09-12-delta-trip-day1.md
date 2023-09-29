@@ -23,7 +23,7 @@ I had to rethink that plan once I realized the rental car company was going to c
 Fortunately for me, I reached out to a few [Reddit](https://reddit.com) groups whose members, especially [r/mississippi](https://www.reddit.com/r/mississippi/comments/169auyj/nashville_mississippi_delta_natchez_trace/) made a compelling reason to take a trip through blues history in the Mississippi Delta. Maybe we will find some live music along the way too.
 
 # The Map
-Every roadtrip has a [map](https://www.google.com/maps/d/u/3/edit?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&usp=sharing). Follow along as we explore the roots of the Delta Blues.
+Every roadtrip has a [map](https://www.google.com/maps/d/u/3/edit?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&usp=sharing). Follow along as we explore the roots of the Delta Blues. This is my actual route as opposed to my [planned route]
 <iframe src="https://www.google.com/maps/d/embed?mid=1TOn-0MqT0Vx4tdH5zmcdEVTukpmtUlI&hl=en&ehbc=2E312F" width="100%" height="480"></iframe>
 
 # The Playlist
@@ -42,85 +42,19 @@ Tripperist App in hand, it was time to hit my first of three stops.
 
 ## The Nashville Parthenon
 The Parthenon in Centennial Park, Nashville, Tennessee, is a full-scale replica of the original Parthenon in Athens. It was built in 1897 as part of the Tennessee Centennial Exposition. It was too early to go inside, so I snapped this picture on my walk around the park. It felt good to stretch my legs after the flight from Seattle.
-![The Nashville Parthenon](/assets/images/travelogue/2023.09.BNABlues/Parthenon.jpg)
+<img src="/assets/images/travelogue/2023.09.BNABlues/Parthenon.jpg" alt="The Nashville Parthenon" width="640"/>
 
 ## The Tomb of President James Polk
 The 11th President of the United States (1845-1849) Polk took up the cause of US Expansion in the 19th Century. President during the acquisition of the Oregon territory in 1846 and the Mexican-American War from 1846 to 1848, under the guise of "Manifest Destiny". I'll talk more about Polk when I visit his home on the return portion of my trip.
 ![President Polk's Tombe](/assets/images/travelogue/2023.09.BNABlues/PolksTomb.jpg)
+<img src="/assets/images/travelogue/2023.09.BNABlues/PolksTomb.jpg" alt="President Polk's Tomb" width="640"/>
 
-# TO BE DONE....
-Hopped an American Airlines flight from Las Vegas to New Orleans via Dallas-Fort Worth. I pickup my one-way rental at Avis, where they searched for the highest mileage car they had. This means I would be driving a nice Ford Explorer Limited with 29K miles instead of the mid-size car I reserved. I consider this an upgrade. 😄
-
-![My rental car with 29,058 starting mileage](assets/images/travelogue/2023.03.MSYAUS/CarRental.png)
-
-## From MSY to Morgan City
-I headed straight out of New Orleans via I-310 South, crossing the Mississippi and on to State Route 90. I try to avoid Interstates and main routes if I can help it, so when I got a chance to take the "Old Spanish Trail" near Paradis, I took it.
-
-![Day 1 Drive](/assets/images/travelogue/2023.03.MSYAUS/Day1Drive.png)
-
-### Stop 1 - Des Allemands / Shell Mound Cemetary
-During my pre-roadtrip planning, I scouted a stop near Des Allemands, called Shell Mound Cemetary. “Des Allemandes” translates in French to mean “the Germans”, it was one of the original German settlements established in 1721. It turns out this area has a much richer history, being part of the ["Sims Site"](https://en.wikipedia.org/wiki/Sims_site) archaelogical site. In a [report from Rob Mann](https://web.archive.org/web/20151023120545/http://www.laarchaeology.org/newsletters/2006%20No.%201.pdf) we learn the site originally consisted of at least five earthen mounds, only two mounds and possibly the remnants of a third mound are extant today. 
-
-I never really located one of the mounds, but looking back at my pictures, there may be one in the back of the first photo below. 🤪
-
-![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundWide.png)
-
-It turns out I got a couple of bonus shots from this stop. The first is of a moss encrusted tree overlooking a green pond. To get this shot, I crossed the railroad tracks and drove a short way down Shell Mound Road.
-
-![Shell Mound Road Tree.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundTree.png)
-
-Across the street from the cemetary, google maps highlights the "Photo Tree Des Allemands". While it's an interesting tree, I found the one above more photogenic.
-
-The second shot was of a broken cross grave marker in Shell Mound Cemetary. 
-
-![Shell Mound Cemetary, Des Allemands. Potential Shell Mound far backk on the right.](/assets/images/travelogue/2023.03.MSYAUS/ShellMoundCross.png)
-
-With my playlist rollin' and the scenery I was catchin' I was soon in the Bayou Mood, so I wrote this...
-<pre>
-Bayou Mood
-
-Headin' down the Delta
-Gonna see what I can find,
-Headin' down the Delta
-Gonna see what I can find,
-Broken cross at the crossroads
-Don't do much to ease my mind.
-</pre>
-
-### Stop 2 - Bayou LaFourche
-It was back on the highway towards Raceland, but instead of continuing East, I turned down LA1 which follows Bayou LaFourche. Before the highway, the river was the main thoroughfare through this area. Louisia Dread has a great [series of YouTube videos](https://www.youtube.com/playlist?list=PL6nksKjbNXH0ZFsZjeHebbSUH_LTyNC3h) about all of the communities lining it's path.
-
-For my trip through Louisiana, I reached out to the [r/Louisiana](https://www.reddit.com/r/Louisiana/comments/10vrg12/roadtrip_from_new_orleans_to_austin_along_the/) Reddit group for places to see. Two places along this route were suggested (see map at the beginning of this post for more detail.)
-
-Unfortunately both places were not open the hours I drove by, so instead I decided to stop along the side of the Bayou to grab a couple of shots. Listening to the playlist, and driving through the small communities put my mind in a very laid back mood.
-
-![Boat along the shore of Bayou LaFourche](/assets/images/travelogue/2023.03.MSYAUS/BayouLaFourcheBoat.png)
-![Bridge over Bayou LaFourche](/assets/images/travelogue/2023.03.MSYAUS/BayouLaFourcheBridge.jpg)
-
-It was getting to be late morning, and I still needed to make Morgan City in time for dinner, so I turned back North.
-
-### Stop 3 - Quick Bite in Houma
-I drove through Houma, with a quick stop a the Fiery Crab Seafood Restaurant and Bar. The goal was to stop in for a quick bite and a cold beer. Little did I know that this type of restaurant specializes in Seafood Boils. I wasn't **that** hungry, so I had some fried oysters and a Bud Light.
-
-### Stop 4 - E.D. White Historic Site
-I continued my scenic drive along Bayou LaFourche. The drive being quite mellow and scenic, I arrived a bit late to this stop. [The historic site](https://www.lacajunbayou.com/things-to-see-and-do/tours-and-attractions/ed-white-historic-site) is the residence of two of Louisiana’s foremost political figures: Edward Douglas White, who was governor from 1835 to 1839, and his son, Edward Douglass White, who was appointed to the United States Supreme Court in 1894 and served as chief justice from 1910 to 1921. 
-
-![E.D. White Historic Site](/assets/images/travelogue/2023.03.MSYAUS/EDWhiteHistoricSIte.png)
-![E.D. White Historic Site](/assets/images/travelogue/2023.03.MSYAUS/WhitePineRoad.png)
-
-It was a good learning opportunity for me. I'm testing out my Roadtrip App on my drives, and one thing I need to pull into list is hours of operation, much like google maps does. Right now, the App will present you with a list of nearby historical markers and give you some information about them (more on this in a future post.)
-
-![App Screen Shot](/assets/images/travelogue/2023.03.MSYAUS/AppScreenShot.png)
-
-## Stop 5 - Morgan City
-After a long day of driving, I was ready ready to check-in to my hotel for the night. When I landed at MSY, I booked my room at the [Morgan City Best Western](https://www.bestwestern.com/en_US/book/hotels-in-morgan-city/best-western-morgan-city-inn/propertyCode.19135.html). Super nice people, with clean comfortable rooms. I'd stay here again.
-
-Okay, that's Day 1. I guess I'll make each Day their own post.
-
+## The Loveless Cafe
+Scratch Southern Meals include Homeade Hot Biscuits. So many people come to taste the biscuits that put us on the map that they’re now making up to 10,000 every day. I stopped in for an amazing breakfast, and of course Biscuits and Preserves. This is definitely one stop you need to make if you are passing by.
+![President Polk's Tombe](/assets/images/travelogue/2023.09.BNABlues/PolksTomb.jpg)
+<img src="/assets/images/travelogue/2023.09.BNABlues/TheLovelessCafe.jpg" alt="The Loveless Cafe" width="640"/>
 ## Let's Connect
 You can reach out to me on:
   1. Instagram - [@tripperista](https://instagram.com/tripperista)
   1. Instagram - [@mikelor](https://instagram.com/mikelor)
-  1. Mastodon - [@mikelor@awscommunity.social](https://awscommunity.social/@mikelor)
-  1. Twitter - [@mikelor](https://twitter.com/mikelor)
 
