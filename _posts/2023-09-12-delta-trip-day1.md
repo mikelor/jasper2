@@ -62,7 +62,7 @@ If you drive the Trace, make sure you respect the 50 MPH speed limit as the Fede
 
 Every now and then you can take a short drive on the "Old Trace" I don't think I could do more than 20 MPH on this part even if I tried.
 
-<img src="/assets/images/travelogue/2023.09.BNABlues/DrivingTheTrace.gif" alt="A drive down the Old Trace." width="640"/>
+<img src="/assets/images/travelogue/2023.09.BNABlues/DrivingTheTrace.jpg" alt="A drive down the Old Trace." width="640"/>
 
 
 Congress made their first declaration of war in 1812 in response to Great Britain's impedence of the new republic's desire to expand their territorial holdings.
