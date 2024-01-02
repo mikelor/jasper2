@@ -51,6 +51,55 @@ The 11th President of the United States (1845-1849) Polk took up the cause of US
 ## The Loveless Cafe
 Scratch Southern Meals include Homeade Hot Biscuits. So many people come to taste the biscuits that put us on the map that they’re now making up to 10,000 every day. I stopped in for an amazing breakfast, and of course Biscuits and Preserves. This is definitely one stop you need to make if you are passing by.
 <img src="/assets/images/travelogue/2023.09.BNABlues/TheLovelessCafe.jpg" alt="The Loveless Cafe" width="640"/>
+
+It was at this point started my journey down the Historic Natchez Trace.
+
+Originally a route forged by prehistoric animals, and later by Native Americans, then Europeans, the 444 mile Trace followed the geographic ridgeline from Nashville, TN to Natchez, MS.
+
+Today, the Natchez Trace Parkway parallels the historic Old Trace.
+
+If you drive the Trace, make sure you respect the 50 MPH speed limit as the Federal Park Rangers patrol and enforce regularly.
+
+Every now and then you can take a short drive on the "Old Trace" I don't think I could do more than 20 MPH on this part even if I tried.
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/DrivingTheTrace.gif" alt="A drive down the Old Trace." width="640"/>
+
+
+Congress made their first declaration of war in 1812 in response to Great Britain's impedence of the new republic's desire to expand their territorial holdings.
+
+The Natchez Trace served as an important route to move troops for the defense of the region. Tennessee volunteers under the command of Andrew Jackson marched down the Natchez Trace to Natchez in January 1813.
+
+Following the victory at the Battle of New Orleans, most of the Americans who fought the battle returned on the Trace.
+
+This memorial is dedicated to all those who perished along the way.
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/WarOf1812.jpg" alt="War of 1812 Memorial." width="640"/>
+
+A quick rest stop at the Baker Bluff Overlook. In a generally flat area, this provided a small Overlook to the river valley below.
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/BakerBluffOverlook.jpg" alt="Baker Bluff Overlook." width="640"/>
+
+Built in 1818, the Gordon House was one of the more impressive homes in the area. It was a landmark for travelers of the Old Trace, letting them know that soon they would be in Nashville.
+
+It also served as a place for a ferry crossing of the Duck river.
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/GordonHouse.jpg" alt="The GordonHouse." width="640"/>
+
+There are lots of sites along the trace, so it's a bit challenging for me to balance seeing them all and making time. The Fall Hollow Falls stop, was great to get out and stretch my legs, but I probably wouldn't stop by again.
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/FallHollowFalls.jpg" alt="The GordonHouse." width="640"/>
+
+One stop that I would recommend was [Pinckney's Tomb](https://perrycountylibrary.info/historical-society/pinckney-s-tomb). Pinckney Hufstedler had an aversion to water getting into his grave.  Accordingly, he constructed a large wood and stone gravehouse over the graves of his immediate family.  It originated as a low limestone wall surrounding a handful of graves to which Hufstedler added the wooden walls and roof about 1885.  The uncommon structure is thought to be the largest gravehouse in Tennessee. Hufstedler also asked that his body be transported to the burial site in a wagon drawn by white oxen, rather than mules. 
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/HufstedlerGraveHouse.jpg" alt="Pinckney's Tomb." width="640"/>
+
+It's getting close to 1pm in the afternoon now, and my hunger is telling me it's time to pull over, and finish off the other half of my Loveless Cafe breakfast. So I find a nice spot along the Tennessee River at Clifton City Park to relax and dig back into my pulled-pork omelette and biscuits.
+
+<img src="/assets/images/travelogue/2023.09.BNABlues/CliftonCityPark.jpg" alt="Lunch along the Tennessee river." width="640"/>
+
+
+Now it's on to Savannah, TN, where all spend the night in a lovely Days Inn. The next morning we'll drive into Mississippi but not before visiting a Civil War battlefield.
+
 ## Let's Connect
 You can reach out to me on:
   1. Instagram - [@tripperista](https://instagram.com/tripperista)
