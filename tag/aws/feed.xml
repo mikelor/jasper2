@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/tag/aws/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2024-04-10T14:50:14+00:00</updated>
+  <id>/tag/aws/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">mikelor | </title>
+  
+
+  
+    <subtitle>Bits From The Bucket</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">AWS Adam Selipsky Keynote</title>
+      <link href="/aws-keynote001" rel="alternate" type="text/html" title="AWS Adam Selipsky Keynote" />
+      <published>2022-11-30T12:00:00+00:00</published>
+      <updated>2022-11-30T12:00:00+00:00</updated>
+      <id>/aws-keynote001</id>
+      <content type="html" xml:base="/aws-keynote001">&lt;p&gt;From Adam’s keynote, we learned that over 50K Customers and Partners are attending re:Invent this year, and boy does it feel like it. Even though I’m spending most of my time at the Wynn, I occasionally have to make a trek over to the Venetian for a keynote, or session. That’s when the crush hits me, all of us crammed into corridors seemingly going every direction possible, except where I am going.&lt;/p&gt;
+
+&lt;p&gt;I wanted to capture all the big announcements from this keynote in one spot, plus add a little commentary and takeaways. In another post I’m cataloging all of the announcements by Area and Product. You can checkout what this looks like at the end of the post.&lt;/p&gt;
+
+&lt;p&gt;If you see something wrong, or missing, hit me up on &lt;a href=&quot;https://awscommunity.social/@mikelor/&quot;&gt;Mastodon&lt;/a&gt;, &lt;a href=&quot;https://linkedin.com/in/mlorengo/&quot;&gt;LinkedIn&lt;/a&gt;, or &lt;a href=&quot;https://twitter.com/mikelor&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-intro&quot;&gt;The Intro&lt;/h1&gt;
+&lt;p&gt;The preamble to the announcements was somewhat predictable if not old. Sustainability Goals, Companies moving Critical Workloads (NASDAQ) to the Cloud. Re-iterated all the benefits of cloud, Velocity, Agility, Elasticity, Cost (who hasn’t heard this by now?).&lt;/p&gt;
+
+&lt;p&gt;There was a great slide that sums up all of the above. The cloud allows you to “Be Prepared for Anything”. Cyber-Monday? No problem, scale up. Pandemic and no one is needing your service? Scale down, or off. Need to try something new? Get up and running quickly. Need to Pivot? Shut off that service.&lt;/p&gt;
+
+&lt;p&gt;OK, onto the announcments!&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-1---opensearch-serverless-&quot;&gt;Announcement 1 - OpenSearch Serverless &lt;a href=&quot;https://aws.amazon.com/blogs/aws/preview-amazon-opensearch-serverless-run-search-and-analytics-workloads-without-managing-clusters/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Run large-scale search and analytics workloads without managing clusters. Pay only for the data that is ingested and the queries you run. 
+&lt;img src=&quot;assets/images/aws/opensearch.png&quot; alt=&quot;Open Search Serverless&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; AWS now has a complete “Serverless” offering for its analytics services. OpenSearch is AWS’s implementation of ElasticSearch. This allows teams to get up and running quickly with minimal cost, allowing for rapid solution prototyping a variety of use cases for a number of use cases such as log analytics, application search, enterprise search, and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;theme-aws-zero-etl-vision&quot;&gt;Theme AWS zero-ETL Vision&lt;/h2&gt;
+
+&lt;p&gt;Adam announced AWS zero-ETL vision. Traditional data engineering requires multiple data pipelines to get data from transactional / operational databases to data warehouses (Redshift). These all need to be tested, and changed according to business needs (lots of work). The zero-ETL vision seeks to eliminate the need for this in the future. The next two announcements contribute to this vision.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-2---aurora-zero-etl-integration-with-redshift-&quot;&gt;Announcement 2 - Aurora zero-ETL integration with Redshift &lt;a href=&quot;https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Enable near real-time analytics and machine learning (ML) using Amazon Redshift on petabytes of transactional data from Aurora. Within seconds of transactional data being written into Aurora, the data is available in Amazon Redshift, so you don’t have to build and maintain complex data pipelines to perform extract, transform, and load (ETL) operations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/aurorazeroetl.png&quot; alt=&quot;Aurora zero-ETL integration with Redshift&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; This is initially only supported on Aurora MySQL3 databases and is currently in Preview. IMO it eliminates E (extract) and L (load), because the way I currently understand it, transactional data is written as in Aurora (no T - Transformation) of data takes place. This does solve the problem of having users query/perform analytics on Operational Databases, by shuffling the data to Redshift, thereby reducing impact to Operational Processes.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-3---redshift-integration-for-apache-spark-&quot;&gt;Announcement 3 - Redshift integration for Apache Spark &lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-amazon-redshift-integration-with-apache-spark/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Builds upon an existing open-source connector project and enhances it for performance and security, helping customers gain up to 10x faster application performance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/sparkredshift.png&quot; alt=&quot;Redshift integration for Apache Spark&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; This was an existing capability via an Open Source Project started by Databricks and maintained by the community. Amazon worked with the community to improve the performance and security, elevating it to a fully supported feature. (so existing capability that is not officially supported).&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-4---datazone-new-service-&quot;&gt;Announcement 4 - Datazone (New Service!) &lt;a href=&quot;https://aws.amazon.com/datazone/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Data Governance - a data management service that you can use to publish data and make it available to the business data catalog through your personalized web application. You can access your data more securely regardless of where it is stored.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/datazone.png&quot; alt=&quot;Redshift integration for Apache Spark&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Governance? People don’t want to hear about governance, but they can get behind data discovery, data quality, data access, and data security. Get with your Data Analysts, and they will tell you “just give me access”. Well, with the newly announced Amazon Datazone, you can stop talking about governance, and instead improve the usability of data for your analysts (and govern your data). AWS was lacking this capability. Azure had “Data Catalog”, which was “rebooted” into Azure Purview. This is an enterprise need. Lot’s of integration with AWS data products.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-5---security-lake-&quot;&gt;Announcement 5 - Security Lake &lt;a href=&quot;https://aws.amazon.com/blogs/aws/preview-amazon-security-lake-a-purpose-built-customer-owned-data-lake-service/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Automatically centralizes your organization’s security data from cloud and on-premises sources into a purpose-built data lake stored in your account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/securitylake.png&quot; alt=&quot;Security Lake&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Provides alternatives to SIEM (Security Incident and Event Management) products (eg Splunk), and provides integrations with existing AWS Services. Benefit of a common schema for logging (OCSF) Open Cybersecurity Schema Framework, for potential interoperability with 3rd party services.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-6---more-compute-instances&quot;&gt;Announcement 6 - More Compute Instances&lt;/h2&gt;
+&lt;p&gt;Building upon advancements highlighted in Peter DeSantis’ keynote yesterday, multiple new EC2 compute instances were announced, from &lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/&quot;&gt;standard&lt;/a&gt; workloads, &lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-amazon-ec2-instance-types-in-the-works-c7gn-r7iz-and-hpc7g/&quot;&gt;network and HPC intensive&lt;/a&gt; workloads, and &lt;a href=&quot;https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-ec2-inf2-instances-preview/&quot;&gt;Deep Learning&lt;/a&gt; workloads.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/computeinstances.png&quot; alt=&quot;Compute&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; This is an AWS core competency, as we saw from last nights keynote, the engineering happening at the datacenter and silicon level is paying dividends at the compute level. Some of these machines are very highly specialized for large workloads (life sciences, industrial engineering, etc), not something a lot of enterprises use.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-7---simspace-weaver-&quot;&gt;Announcement 7 - SimSpace Weaver &lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-aws-simspace-weaver-build-large-scale-spatial-simulations-in-the-cloud/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A new compute service to run real-time spatial simulations in the cloud and at scale. SimSpace Weaver is great at simulating crowds. This is very useful, for example, when you’re planning large events or planning to build infrastructure like a new stadium. It is also ideal for simulating smart cities, complete with vehicles, inhabitants, and other objects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/simspace.png&quot; alt=&quot;SimSpace Weaver&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Highly specialized service. If you are running these types of workloads today, you will be really happy to see this, if not..ho hum.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-8---connect-capabilities-&quot;&gt;Announcement 8 - Connect Capabilities &lt;a href=&quot;https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.html#nov22-release-notes&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create step-by-step guides for your agents&lt;/li&gt;
+  &lt;li&gt;ML Driven forecasting, capacity planning, and scheduling&lt;/li&gt;
+  &lt;li&gt;Contact Lens Enhancements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/connect.png&quot; alt=&quot;Connect&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; New features added. In the future AWS should break these BizApps out to a separate conference, especially as they continue to grow their portfolio (see SupplyChain announcement)&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-9---clean-rooms-new-service-&quot;&gt;Announcement 9 - Clean Rooms (New Service!) &lt;a href=&quot;https://aws.amazon.com/clean-rooms/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Helps customers and their partners to more easily and securely match, analyze, and collaborate on their combined datasets–without sharing or revealing underlying data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/cleanrooms.png&quot; alt=&quot;Clean Rooms&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;/strong&gt; Allows data sharing while protecting data. Excited about this! 
+In the past, it was a challenge to setup data pipelines and integrations just to share data. 
+I always argued that we could spend that time getting more of our data centralized to a data lake, then share that data through controls. Clean Rooms solves this problem. Azure has this capability, but (Azure Data Sharing, I believe, but doesn’t look as robust as this)&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-10---supply-chain-&quot;&gt;Announcement 10 - Supply Chain &lt;a href=&quot;https://aws.amazon.com/aws-supply-chain/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Supply Chain can connect to your existing enterprise resource planning (ERP) and supply chain management systems, without requiring replatforming, upfront licensing fees, or long-term commitments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/supplychain.png&quot; alt=&quot;Supply Chain&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeway:&lt;/strong&gt; AWS moving further into Business Apps. Is this an opening shot to established ERP vendors? Not an area I am very familiar with. Is AWS going after the Oracle and SAPs of the world? Again, not fitting the profile of the majority of attendees, but a whole new area.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcement-11---omics-&quot;&gt;Announcement 11 - Omics &lt;a href=&quot;https://aws.amazon.com/aws-supply-chain/&quot;&gt;&amp;gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Helps healthcare and life science organizations store, query, and analyze genomic, transcriptomic, and other omics data and then generate insights from that data to improve health and advance scientific discoveries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/omics.png&quot; alt=&quot;Omics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeway:&lt;/strong&gt; If you are in the Life Sciences or Healthcare industry, you may be excited. I am not.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-closing&quot;&gt;In Closing&lt;/h2&gt;
+&lt;p&gt;I’m working on centralizing this by area and product. Here’s an example of what I’ve done so far. I will publish the final list at the end of the conference.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-connect&quot;&gt;Let’s Connect&lt;/h2&gt;
+&lt;p&gt;If you are attending AWS re:Invent or noticed a session that I might have missed, you can reach out to me on:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Mastodon - &lt;a href=&quot;https://awscommunity.social/@mikelor&quot;&gt;@mikelor@awscommunity.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub - &lt;a href=&quot;https://github.com/mikelor&quot;&gt;@mikelor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LinkedIn - &lt;a href=&quot;https://www.linkedin.com/in/mlorengo/&quot;&gt;mlorengo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter - &lt;a href=&quot;https://twitter.com/mikelor&quot;&gt;@mikelor&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>mikelor</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="aws" />
+      
+
+      
+        <summary type="html">From Adam’s keynote, we learned that over 50K Customers and Partners are attending re:Invent this year, and boy does it feel like it. Even though I’m spending most of my time at the Wynn, I occasionally have to make a trek over to the Venetian for a keynote, or session. That’s when the crush hits me, all of us crammed into corridors seemingly going every direction possible, except where I am going.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hello AWS re:Invent 2022</title>
+      <link href="/hello-aws-2022" rel="alternate" type="text/html" title="Hello AWS re:Invent 2022" />
+      <published>2022-11-27T12:00:00+00:00</published>
+      <updated>2022-11-27T12:00:00+00:00</updated>
+      <id>/hello-aws-2022</id>
+      <content type="html" xml:base="/hello-aws-2022">&lt;h1 id=&quot;what-did-i-just-do&quot;&gt;What did I just do?&lt;/h1&gt;
+&lt;p&gt;According to &lt;a href=&quot;https://reinvent.awsevents.com/learn/breakout-content/&quot;&gt;AWS re:Invent&lt;/a&gt; website, there are 50 content tracks and more than &lt;strong&gt;2,000 sessions!&lt;/strong&gt; The conference itself is spread over a &lt;a href=&quot;https://reinvent.awsevents.com/campus/#map&quot;&gt;“campus”&lt;/a&gt; of 6 resorts on opposite ends Las Vegas Strip. It’s been five years since my last AWS re:Invent conference, and if there is only one takeaway, it’s this: You Need a Plan.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-goal&quot;&gt;My Goal&lt;/h1&gt;
+&lt;p&gt;It’s been a couple of years since I worked with AWS. The pace of change happens at breakneck speed in the cloud, so it’s likely that what I worked with 2 years ago, would be a faint afterimage of AWS today.&lt;/p&gt;
+
+&lt;h2 id=&quot;prioritize-conference-tracks&quot;&gt;Prioritize Conference Tracks&lt;/h2&gt;
+&lt;p&gt;The graphic below is my attempt to make some sense out of the myriad of sessions listed in the conference catalog.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/prioritizationMap.png&quot; alt=&quot;Conference Tracks Grouped and Prioritized&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve grouped them in three major areas&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Platform and Infrastructure Services&lt;/li&gt;
+  &lt;li&gt;Software Applications and Industry Solutions&lt;/li&gt;
+  &lt;li&gt;Management, Delivery, and Best Practices&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My main focus would be on the next level of cloud architecture, staying away from the core Infrastructure pieces but instead prioritize serverless, platform, and analytics services. A recent article &lt;a href=&quot;https://siliconangle.com/2022/11/25/ahead-reinvent-adam-selipsky-hints-aws-next-gen-cloud/&quot;&gt;Ahead of re:Invent, Adam Selipsky hints at the AWS next-gen cloud&lt;/a&gt; hints at this trend, referring to it as the move from Classic to Next-Gen cloud. It also makes a go at leveraging AWS for another buzzword “Business Transformation”. The cloud’s move beyond infrastructure, requires a new method, where more focus is put on business change and “code” and less on the infrastructure it runs on. For those that know me, this is something I strongly believe in.&lt;/p&gt;
+
+&lt;p&gt;I built the graphic above so that each Hex is colored according to priority&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Teal (Top Priority)&lt;/strong&gt; - Core Building Blocks of Modern Applications, Analytics, and Applied AI&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Green (Secondary Focus)&lt;/strong&gt; - Enterprise Concerns and Key Case Studies for Various Industries&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Grey (Zero to no focus)&lt;/strong&gt; - Unless there are major announcements during a keynote.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;prioritize-sessions&quot;&gt;Prioritize Sessions&lt;/h2&gt;
+&lt;p&gt;The next step was to drill down on the content tracks, and find those sessions that looked interesting, as well as highlight what’s new in some of the existing service. I created the following images showing the outcome of this exercise.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aws/reinventsessionsgroup01.png&quot; alt=&quot;Interesting Sessions Group 1&quot; /&gt;
+&lt;img src=&quot;assets/images/aws/reinventsessionsgroup02.png&quot; alt=&quot;Interesting Sessions Group 2&quot; /&gt;
+&lt;img src=&quot;assets/images/aws/reinventsessionsgroup03.png&quot; alt=&quot;Interesting Sessions Group 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From those sessions above, I had to limit what I could realistically absorb and prioritize even further. To that end the highlighted sessions above from this set illustrate those sessions that I will be attending.&lt;/p&gt;
+
+&lt;p&gt;If you are interested, I’ve created a PDF of the sessions that I plan to view/attend, as well as those Keynote and Leadership sessions that will be broadcast to all Internet users. You can print it out and hightlight which sessions may be of interest to you.&lt;/p&gt;
+
+&lt;p&gt;I’ve made two PDF files available&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;My sessions I plan on attending/viewing, and the day and times of the sessions.
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;assets/images/aws/AWS.Reinvent.AttendingSessions.pdf&quot;&gt;AWS.reInvent.AttendingSessions.pdf&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;All of the sessions that I found interesting, and may review in the future.
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;assets/images/aws/AWS.Reinvent.InterestingSessions.pdf&quot;&gt;AWS.reInvent.InterestingSessions.pdf&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;lets-connect&quot;&gt;Let’s Connect&lt;/h2&gt;
+&lt;p&gt;If you are attending AWS re:Invent or noticed a session that I might have missed, you can reach out to me on:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Mastodon - &lt;a href=&quot;https://hachyderm.io/@mikelor&quot;&gt;@mikelor@hachyderm.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LinkedIn - &lt;a href=&quot;https://www.linkedin.com/in/mlorengo/&quot;&gt;mlorengo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter - &lt;a href=&quot;https://twitter.com/mikelor&quot;&gt;@mikelor&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;cover-art&quot;&gt;Cover Art?&lt;/h2&gt;
+&lt;p&gt;The cover art of this blog post was courtesy of Open-AI Dalle-2. For the image i specified &lt;a href=&quot;https://labs.openai.com/s/iXCOTiO4fwx7c3ZRaNQzUcvw&quot;&gt;“Amazon re:Invent 2022 Conference in the style of Dali in Las Vegas”&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>mikelor</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="aws" />
+      
+
+      
+        <summary type="html">What did I just do? According to AWS re:Invent website, there are 50 content tracks and more than 2,000 sessions! The conference itself is spread over a “campus” of 6 resorts on opposite ends Las Vegas Strip. It’s been five years since my last AWS re:Invent conference, and if there is only one takeaway, it’s this: You Need a Plan.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
